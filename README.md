@@ -1,5 +1,4 @@
 # SP-Assignment
-Assignments given for the course Structured Programming(SP).
 
 This is a repository created for submitting the assignment assigned to me in the course "Structured Programming". We were given seven tasks related to 
 functions and were told to solve them. The questions for the problems are given below:
